@@ -1,5 +1,7 @@
 # IIT_Workshop
 
+Toran Mayantha
+
 - Open the html file 
 - Put your name and the IIT index number to the file 
 - Create a PR for your change 
