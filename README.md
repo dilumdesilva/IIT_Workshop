@@ -1,6 +1,6 @@
 # IIT_Workshop
 
-pasindu -2018166
+gayal -2018166
 
 - Open the html file 
 - Put your name and the IIT index number to the file 
